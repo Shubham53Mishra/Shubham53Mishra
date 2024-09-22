@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham53mishra&label=Profile%20views&color=0e75b6&style=flat" alt="shubham53mishra" /> </p>
 
-- 🌱 I’m currently learning **React.js Redux React Native Expo**
+- 🌱 I’m currently learning **React.js Redux React Native Expo laravel **
 
 - 💬 Ask me about **React.js Redux React Native Expo**
 
