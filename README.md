@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js Redux laravel Docker **
 
-- 💬 Ask me about **React.js Redux React Native Expo**
+- 💬 Ask me about **Next.js Redux React Native Expo**
 
 - 📫 How to reach me **Shubhammishra2310@gmail.com**
 
